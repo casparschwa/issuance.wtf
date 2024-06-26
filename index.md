@@ -1,5 +1,3 @@
-# [resources] Issuance
-
 #### This document aims to collect resources relevant to Ethereum's current issuance discussion.
 
 *This page is maintained and kept ~up-to-date\~ by [Caspar](https://twitter.com/casparschwa). Feel free to ping with questions/comments/requests on Twitter or Telegram @casparschwa, and please point out missing resources.*
@@ -58,7 +56,7 @@ For an overview on the current issuance debate, the following resources are a go
 |-----|-----------|----------|
 |[Issuance Issues — Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii)|Mike's distillation of issuance debate and why to change issuance policy.|🤯|
 |[Issuance Issues — Subsequent Soliloquy](https://notes.ethereum.org/@mikeneuder/subsol)|Walks through a key point of the issuance endgame(tm) post to provide more intuition: why real issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy.|🤯&#160;🤯|
-|[Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt)|-|🤯&#160;🤯|
+|[Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt)|Mike provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion|🤯&#160;🤯|
 
 #### *by [Julian](https://twitter.com/_julianma)*
 |Title|Description|🤯?|
