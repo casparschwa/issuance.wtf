@@ -52,7 +52,6 @@ For an overview on the current issuance debate, the following resources are a go
 |[Reward curve with capped issuance](https://notes.ethereum.org/@anderselowsson/Reward-curve-with-capped-issuance)|Discusses a reward curve with *capped* issuance, as opposed to *tempered* issuance.|🤯&#160;🤯|
 |[FAQ: Ethereum issuance reduction](https://ethresear.ch/t/faq-ethereum-issuance-reduction/19675)|Anders answers 8 FAQs in the debate around a reduction in issuance.|🤯&#160;🤯|
 
-
 ### *by [Mike](https://twitter.com/mikeneuder)*
 | Title | Description | 🤯? |
 |-------|-------------|-----|
