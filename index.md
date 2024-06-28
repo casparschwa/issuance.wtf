@@ -18,16 +18,16 @@ The goal of this document is to collect all resources (writeups/talks/podcasts/e
 For an overview on the current issuance debate, the following resources are a good starting point; in \~rough\~ order of suggested consumption:
 
 ### Technical highlights (≥ 🤯🤯)
-1. Ansgar&Caspar's [issuance endgame(tm) post](https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751) explores why Ethereum is plausibly heading towards a very high % stake evnvironment under its current issuance policy; it then argues for why this future is problematic, and suggests to *target* a low staking ratio in the issuance endgame. 
+1. Ansgar&Caspar's [issuance endgame™ post](https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751) explores why Ethereum is plausibly heading towards a very high % stake evnvironment under its current issuance policy; it then argues for why this future is problematic, and suggests to *target* a low staking ratio in the issuance endgame. 
 2. Caspar's talk [issued issues](https://t.co/nc8NHaPj4b) focuses on *why* to change the issuance policy, i.e. the problems of a high % staked environment.
 3. Anders' [master piece](https://ethresear.ch/t/properties-of-issuance-level-consensus-incentives-and-variability-across-potential-reward-curves/18448/) proposes and analyzes new reward curve(s) with tempered issuance. Beyond the specific curve(s), it is a valuable resource to learn about relevant properties when considering issuance curves. Note that in broad strokes, Anders considers this proposed issuance policy to be viable for the endgame, while Ansgar&Caspar consider it a great *short term* issuance policy before moving to a stake ratio targeting policy for the endgame. 
-4. Mike's [2$^{nd}$ Issuance Issues](https://notes.ethereum.org/@mikeneuder/subsol) takes the time it deserves to provide more intuition for a key point of the issuance endgame(tm) post: why *real* issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy.
+4. Mike's [second Issuance Issues](https://notes.ethereum.org/@mikeneuder/subsol) takes the time it deserves to provide more intuition for a key point of the issuance endgame™ post: why *real* issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy.
 5. Anders' deep-dive on his [thinking about the trade-offs](https://ethresear.ch/t/faq-ethereum-issuance-reduction/19675) when exploring various potential issuance policies in an FAQ format. Note that Anders' views differ to Ansgar&Caspar's in <u>some</u> aspects, e.g. desirable staking ratio target or viability of non-targeting policies for the endgame. 
-6. If you prefer podcast format, this [Uncommon Core episode](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) (also on [YouTube](https://www.youtube.com/watch?v=ivynR3RI3_Y)) is your 2.5h one-stop solution. It outlines most of Ansgar&Caspar's thinking behind the issuance endgame(tm) post + productive debate with Hasu&Jon.
+6. If you prefer podcast format, this [Uncommon Core episode](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) (also on [YouTube](https://www.youtube.com/watch?v=ivynR3RI3_Y)) is your 2.5h one-stop solution. It outlines most of Ansgar&Caspar's thinking behind the issuance endgame™ post + productive debate with Hasu&Jon.
 
 ### High-level highlights (= 🤯)
 1. Caspar's talk [issued issues](https://t.co/nc8NHaPj4b) focuses on *why* to change the issuance policy, i.e. problems of high % staked environments. 
-2. Mike's [Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii) is a more high-level take on the endgame post(tm) and presents his view on the matter.
+2. Mike's [Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii) is a more high-level take on the endgame post™ and presents his view on the matter.
 3. In this [Bankless episode](https://www.youtube.com/watch?v=GLP_qRyPuv4) David & Ryan "give a masterclass on monetary policy for Ethereum and beyond".
 4. In this [Epicenter episode](https://www.youtube.com/watch?v=2krlPcbpZvQ) nixo & superphiz from EthStaker talk about the issuance debate with a focus on the solo staker perspective.
 
@@ -56,7 +56,7 @@ For an overview on the current issuance debate, the following resources are a go
 | Title | Description | 🤯? |
 |-------|-------------|-----|
 |[Issuance Issues — Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii)|Mike's distillation of issuance debate and why to change issuance policy.|🤯|
-|[Issuance Issues — Subsequent Soliloquy](https://notes.ethereum.org/@mikeneuder/subsol)|Walks through a key point of the issuance endgame(tm) post to provide more intuition: why real issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy.|🤯&#160;🤯|
+|[Issuance Issues — Subsequent Soliloquy](https://notes.ethereum.org/@mikeneuder/subsol)|Walks through a key point of the issuance endgame™ post to provide more intuition: why real issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy.|🤯&#160;🤯|
 |[Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt)|Mike provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion|🤯&#160;🤯|
 
 ### *by [Julian](https://twitter.com/_julianma)*
@@ -67,29 +67,29 @@ For an overview on the current issuance debate, the following resources are a go
 ## Talks
 | Title | Speaker(s) | Conference, Date | 🤯? |
 |-------|------------|------------------|-----|
-|[Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s)|Ansgar|[EthDubai, 20 Apr 2024](https://twitter.com/adietrichs)|🤯&#160;🤯|
-|[Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542)|Ansgar, nixo, & dapplion|[DappCon, 22 May 2024](https://twitter.com/adietrichs)|🤯|
-|[issued issues](https://t.co/nc8NHaPj4b)|Caspar|[ZuBerlin, 12 Jun 2024](https://twitter.com/casparschwa)|🤯|
+|[Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s)|[Ansgar](https://twitter.com/adietrichs)|EthDubai, 20 Apr 2024|🤯&#160;🤯|
+|[Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542)|[Ansgar](https://twitter.com/adietrichs), [nixo](https://twitter.com/nixorokish), & [dapplion](https://twitter.com/dapplion)|DappCon, 22 May 2024|🤯|
+|[issued issues](https://t.co/nc8NHaPj4b)|[Caspar](https://twitter.com/casparschwa)|ZuBerlin, 12 Jun 2024|🤯|
 
 ## Podcasts
 | Podcast: Title | Guest(s), Host(s) | Date | 🤯? |
 |----------------|-------------------|------|-----|
-|[Uncommon Core 2.0: Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) (also on [YouTube](https://www.youtube.com/watch?v=ivynR3RI3_Y))|*with Ansgar & Caspar, hosted by Hasu & Jon*|22 Mar 2024|🤯&#160;🤯|
-|[Bankless: ETH Monetary Policy: The Issuance Debate](https://www.youtube.com/watch?v=GLP_qRyPuv4)|*with David & Ryan*|10 Apr 2024|🤯|
-|[Infinite Jungle: Is Ethereum Printing Too Much ETH?](https://youtu.be/qw4Kp8UPBv0?si=WoUM2FkgfgdfOSUu)|*with nixo, hosted by Christine*|10 Apr 2024|🤯|
-|[Epicenter: Ethereum Staking Wars with EthStaker](https://www.youtube.com/watch?v=2krlPcbpZvQ)|*with nixo & superhiz, hosted by Friederike*|7 Jun 2024|🤯|
+|[Uncommon Core 2.0: Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) (also on [YouTube](https://www.youtube.com/watch?v=ivynR3RI3_Y))|with [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa), hosted by [Hasu](https://twitter.com/hasufl) & [Jon](https://twitter.com/joncharb)|22 Mar 2024|🤯&#160;🤯|
+|[Bankless: The Debate Over ETH's Monetary Policy](https://www.youtube.com/watch?v=GLP_qRyPuv4)|with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams)|10 Apr 2024|🤯|
+|[Infinite Jungle: Is Ethereum Printing Too Much ETH?](https://youtu.be/qw4Kp8UPBv0?si=WoUM2FkgfgdfOSUu)|with [nixo](https://twitter.com/nixorokish), hosted by [Christine](https://twitter.com/christinedkim)|10 Apr 2024|🤯|
+|[Epicenter: Ethereum Staking Wars with EthStaker](https://www.youtube.com/watch?v=2krlPcbpZvQ)|with [nixo](https://twitter.com/nixorokish) & [superhiz](https://twitter.com/superphiz), hosted by [Friederike](https://twitter.com/tw_tter)|7 Jun 2024|🤯|
 
 
 ## Misc
 This is a collection of less dedicated writings/discussions found on Twitter or relevant snippets from talks/podcasts. This list is *not* exhaustive. 
 
-| Type | Author | Title | 🤯? |
+| Type | Author/Speaker | Title | 🤯? |
 |------|--------|-------|-----|
-| Paper | Urban Jermann | [A Macro Finance Model for Proof-of-Stake Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335835) | 🤯&#160;🤯&#160;🤯 |
-| Post | Brett Palatiello | [Towards a holistic formalization of ETH](https://bmpalatiello.github.io/2023/06/16/formalization-of-eth.html) | 🤯&#160;🤯&#160;🤯 |
-| Podcast clip | Oisín, hosted by Christine | [Infinite Jungle: Is There Too Much ETH Staked? Devs Weigh Reduction In Staking Rewards](https://www.youtube.com/watch?v=LbkxL-xBYYE&list=PLz3vbkrzRoXR_XIWVqnZcX11REeC6acN2&index=26) | 🤯 |
-| Podcast clip | nixo, hosted by Christine | [Infinite Jungle: Ethereum Devs Debate Account Abstraction EIPs for Electra](https://youtu.be/EAgAAXJIx7I?si=-Qsbu0sQHykFfV4S&t=1425) | 🤯 |
-| Twitter | Artem | [Artem's counter-arguments to changing Ethereum issuance](https://twitter.com/artofkot/status/1775632385414959331) | 🤯 |
-| Podcast clip | David & Anthony | [Bankless Clips: ETH Monetary Policy: The Issuance Debate](https://www.youtube.com/watch?v=iXNtNXy7sxU) | 🤯 |
-| Podcast clip | David & Ryan | [Bankless Clips: What’s Next for ETH Monetary Policy?](https://www.youtube.com/watch?v=-ihs12qAoY8) | 🤯 |
-| Podcast clip | Sreeram, hosted by Myles & Mike | [Bell Curve: Exploring EigenLayer and The Future of Ethereum Security](https://youtu.be/ozvMIydgcKs?si=t-YD59a1p3vUN5qn&t=5965) | 🤯 |
+| Paper | [Urban](https://fnce.wharton.upenn.edu/profile/jermann/) | [A Macro Finance Model for Proof-of-Stake Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335835) | 🤯&#160;🤯&#160;🤯 |
+| Post | [Brett](https://twitter.com/brettpalatiello) | [Towards a holistic formalization of ETH](https://bmpalatiello.github.io/2023/06/16/formalization-of-eth.html) | 🤯&#160;🤯&#160;🤯 |
+| Podcast clip | with [Oisín](https://twitter.com/OisinKyne), hosted by [Christine](https://twitter.com/christinedkim)| [Infinite Jungle: Is There Too Much ETH Staked? Devs Weigh Reduction In Staking Rewards](https://www.youtube.com/watch?v=LbkxL-xBYYE&list=PLz3vbkrzRoXR_XIWVqnZcX11REeC6acN2&index=26) | 🤯 |
+| Podcast clip | with [nixo](https://twitter.com/nixorokish), hosted by [Christine](https://twitter.com/christinedkim) | [Infinite Jungle: Ethereum Devs Debate Account Abstraction EIPs for Electra](https://youtu.be/EAgAAXJIx7I?si=-Qsbu0sQHykFfV4S&t=1425) | 🤯 |
+| Twitter | [Artem](https://twitter.com/artofkot) | [Artem's counter-arguments to changing Ethereum issuance](https://twitter.com/artofkot/status/1775632385414959331) | 🤯 |
+| Podcast clip | with [David](https://twitter.com/TrustlessState) & [Anthony](https://twitter.com/sassal0x) | [Bankless Clips: ETH Monetary Policy: The Issuance Debate](https://www.youtube.com/watch?v=iXNtNXy7sxU) | 🤯 |
+| Podcast clip | with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams) | [Bankless Clips: What’s Next for ETH Monetary Policy?](https://www.youtube.com/watch?v=-ihs12qAoY8) | 🤯 |
+| Podcast clip | with [Sreeram](https://twitter.com/sreeramkannan), hosted by [Myles](https://twitter.com/MylesOneil) & [Mike](https://twitter.com/MikeIppolito) | [Bell Curve: Exploring EigenLayer and The Future of Ethereum Security](https://youtu.be/ozvMIydgcKs?si=t-YD59a1p3vUN5qn&t=5965) | 🤯 |
