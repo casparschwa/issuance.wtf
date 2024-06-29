@@ -10,14 +10,14 @@ However, the current issuance policy has effectively no control over the upper l
 
 For this reason, proposals to change Ethereum's issuance policy were put forward and are currently discussed.
 
-The goal of this document is to collect all resources (writeups/talks/podcasts/etc.) relevant to Ethereum's *current* issuance discussion.
+The goal of this document is to collect resources (writeups/talks/podcasts/etc.) relevant to Ethereum's *current* issuance discussion.
 
 # Highlights
 *Disclaimer: This section is <u>subjective</u>. Please take a look at the following section for a more exhaustive and unopinionated list of resources.*
 
 For an overview on the current issuance debate, the following resources are a good starting point; in \~rough\~ order of suggested consumption:
 
-### Technical highlights (≥ 🤯🤯)
+### Technical highlights (≥ 🤯)
 1. Ansgar&Caspar's [issuance endgame™ post](https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751) explores why Ethereum is plausibly heading towards a very high % stake evnvironment under its current issuance policy; it then argues for why this future is problematic, and suggests to *target* a low staking ratio in the issuance endgame. 
 2. Caspar's talk [issued issues](https://t.co/nc8NHaPj4b) focuses on *why* to change the issuance policy, i.e. the problems of a high % staked environment.
 3. Anders' [master piece](https://ethresear.ch/t/properties-of-issuance-level-consensus-incentives-and-variability-across-potential-reward-curves/18448/) proposes and analyzes new reward curve(s) with tempered issuance. Beyond the specific curve(s), it is a valuable resource to learn about relevant properties when considering issuance curves. Note that in broad strokes, Anders considers this proposed issuance policy to be viable for the endgame, while Ansgar&Caspar consider it a great *short term* issuance policy before moving to a stake ratio targeting policy for the endgame. 
@@ -39,7 +39,7 @@ For an overview on the current issuance debate, the following resources are a go
 |Title|Description|🤯?|
 |-----|-----------|----------|
 |[Endgame Staking Economics: A case for targeting](https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751)|Explores the past, current and probable future of staking levels, what negative externalities of too much stake are, and argues for why targeting a low % of stake is desirable as the endgame issuance policy.|🤯&#160;🤯|
-|[Electra: Issuance Curve Adjustment Proposal](https://ethereum-magicians.org/t/electra-issuance-curve-adjustment-proposal/18825)|Short-term proposal to lower issuance curve from cF√D to cF√D(1+kD) as proposed and analyzed by Anders.|🤯&#160;🤯|
+|[Electra: Issuance Curve Adjustment Proposal](https://ethereum-magicians.org/t/electra-issuance-curve-adjustment-proposal/18825)|Short-term proposal to lower issuance curve from cF√D to cF√D(1+kD) as proposed and analyzed by Anders. This adjustment is proposed as an intermediate step toward the envisioned endgame: stake targeting.|🤯&#160;🤯|
 
 ### *by [Anders](https://twitter.com/weboftrees)*
 
@@ -55,9 +55,9 @@ For an overview on the current issuance debate, the following resources are a go
 ### *by [Mike](https://twitter.com/mikeneuder)*
 | Title | Description | 🤯? |
 |-------|-------------|-----|
-|[Issuance Issues — Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii)|Mike's distillation of issuance debate and why to change issuance policy.|🤯|
-|[Issuance Issues — Subsequent Soliloquy](https://notes.ethereum.org/@mikeneuder/subsol)|Walks through a key point of the issuance endgame™ post to provide more intuition: why real issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy.|🤯&#160;🤯|
-|[Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt)|Mike provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion|🤯&#160;🤯|
+|[Issuance Issues — Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii)|Mike's personal distillation of issuance debate and why to change issuance policy.|🤯|
+|[Issuance Issues — Subsequent Soliloquy](https://notes.ethereum.org/@mikeneuder/subsol)|Walks through a key point of the issuance endgame™ post argument-by-argument to provide more intuition: why real issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy.|🤯&#160;🤯|
+|[Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt)|Provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion|🤯&#160;🤯|
 
 ### *by [Julian](https://twitter.com/_julianma)*
 | Title | Description | 🤯? |
