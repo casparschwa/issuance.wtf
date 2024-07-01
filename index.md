@@ -75,12 +75,12 @@ For an overview on the current issuance debate, the following resources are a go
 |[issued issues](https://t.co/nc8NHaPj4b)|[Caspar](https://twitter.com/casparschwa)|ZuBerlin, 12 Jun 2024|🤯|
 
 ## Podcasts
-| Podcast: Title | Guest(s), Host(s) | Date | 🤯? |
+| [Podcast] Title | Guest(s), Host(s) | Date | 🤯? |
 |----------------|-------------------|------|-----|
-|[Uncommon Core 2.0: Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) (also on [YouTube](https://www.youtube.com/watch?v=ivynR3RI3_Y))|with [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa), hosted by [Hasu](https://twitter.com/hasufl) & [Jon](https://twitter.com/joncharb)|22 Mar 2024|🤯&#160;🤯|
-|[Bankless: The Debate Over ETH's Monetary Policy](https://www.youtube.com/watch?v=GLP_qRyPuv4)|with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams)|10 Apr 2024|🤯|
-|[Infinite Jungle: Is Ethereum Printing Too Much ETH?](https://youtu.be/qw4Kp8UPBv0?si=WoUM2FkgfgdfOSUu)|with [nixo](https://twitter.com/nixorokish), hosted by [Christine](https://twitter.com/christinedkim)|10 Apr 2024|🤯|
-|[Epicenter: Ethereum Staking Wars with EthStaker](https://www.youtube.com/watch?v=2krlPcbpZvQ)|with [nixo](https://twitter.com/nixorokish) & [superhiz](https://twitter.com/superphiz), hosted by [Friederike](https://twitter.com/tw_tter)|7 Jun 2024|🤯|
+|[Uncommon Core 2.0] [Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) (also on [YouTube](https://www.youtube.com/watch?v=ivynR3RI3_Y))|with [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa), hosted by [Hasu](https://twitter.com/hasufl) & [Jon](https://twitter.com/joncharb)|22 Mar 2024|🤯&#160;🤯|
+|[Bankless] [The Debate Over ETH's Monetary Policy](https://www.youtube.com/watch?v=GLP_qRyPuv4)|with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams)|10 Apr 2024|🤯|
+|[Infinite Jungle] [Is Ethereum Printing Too Much ETH?](https://youtu.be/qw4Kp8UPBv0?si=WoUM2FkgfgdfOSUu)|with [nixo](https://twitter.com/nixorokish), hosted by [Christine](https://twitter.com/christinedkim)|10 Apr 2024|🤯|
+|[Epicenter] [Ethereum Staking Wars with EthStaker](https://www.youtube.com/watch?v=2krlPcbpZvQ)|with [nixo](https://twitter.com/nixorokish) & [superhiz](https://twitter.com/superphiz), hosted by [Friederike](https://twitter.com/tw_tter)|7 Jun 2024|🤯|
 
 
 ## Misc
@@ -88,6 +88,7 @@ This is a collection of less dedicated writings/discussions found on Twitter or 
 
 | Type | Title | Author/Speaker | Date | 🤯? |
 |------|-------|----------------|------|-----|
+| Post | [Paths toward single-slot finality](https://notes.ethereum.org/@vbuterin/single_slot_finality#Economic-capping-of-total-deposits) | [Vitalik](https://twitter.com/VitalikButerin) | 31 Oct 2022 | 🤯&#160;🤯 |
 | Paper | [A Macro Finance Model for Proof-of-Stake Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335835) | [Urban](https://fnce.wharton.upenn.edu/profile/jermann/) | 25 Jan 2023 | 🤯&#160;🤯&#160;🤯 |
 | Post | [Towards a holistic formalization of ETH](https://bmpalatiello.github.io/2023/06/16/formalization-of-eth.html) | [Brett](https://twitter.com/brettpalatiello) | 16 Jun 2023 | 🤯&#160;🤯&#160;🤯 |
 | Podcast clip | [Infinite Jungle: Is There Too Much ETH Staked? Devs Weigh Reduction In Staking Rewards](https://www.youtube.com/watch?v=LbkxL-xBYYE&list=PLz3vbkrzRoXR_XIWVqnZcX11REeC6acN2&index=26) | with [Oisín](https://twitter.com/OisinKyne), hosted by [Christine](https://twitter.com/christinedkim) | 27 Feb 2024 | 🤯 |
