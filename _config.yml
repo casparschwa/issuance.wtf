@@ -2,6 +2,6 @@ title: issuance.wtf
 description: A collection of resources relevant to Ethereum's current issuance discussion.
 url: "https://issuance.wtf"
 favicon: /favicon.ico
-
+markdown: GFM
 include:
   - _includes/head.html
