@@ -88,7 +88,6 @@ This is a collection of less dedicated writings/discussions found on Twitter or 
 
 | Type | Title | Author/Speaker | Date | 🤯? |
 |------|-------|----------------|------|-----|
-| Post | [Paths toward single-slot finality](https://notes.ethereum.org/@vbuterin/single_slot_finality#Economic-capping-of-total-deposits) | [Vitalik](https://twitter.com/VitalikButerin) | 31 Oct 2022 | 🤯&#160;🤯 |
 | Paper | [A Macro Finance Model for Proof-of-Stake Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335835) | [Urban](https://fnce.wharton.upenn.edu/profile/jermann/) | 25 Jan 2023 | 🤯&#160;🤯&#160;🤯 |
 | Post | [Towards a holistic formalization of ETH](https://bmpalatiello.github.io/2023/06/16/formalization-of-eth.html) | [Brett](https://twitter.com/brettpalatiello) | 16 Jun 2023 | 🤯&#160;🤯&#160;🤯 |
 | Podcast clip | [Infinite Jungle: Is There Too Much ETH Staked? Devs Weigh Reduction In Staking Rewards](https://www.youtube.com/watch?v=LbkxL-xBYYE&list=PLz3vbkrzRoXR_XIWVqnZcX11REeC6acN2&index=26) | with [Oisín](https://twitter.com/OisinKyne), hosted by [Christine](https://twitter.com/christinedkim) | 27 Feb 2024 | 🤯 |
@@ -96,6 +95,6 @@ This is a collection of less dedicated writings/discussions found on Twitter or 
 | Tweet | [Artem's counter-arguments to changing Ethereum issuance](https://twitter.com/artofkot/status/1775632385414959331) | [Artem](https://twitter.com/artofkot) | 3 Apr 2024 | 🤯 |
 | Podcast clip | [Bankless Clips: ETH Monetary Policy: The Issuance Debate](https://www.youtube.com/watch?v=iXNtNXy7sxU) | with [David](https://twitter.com/TrustlessState) & [Anthony](https://twitter.com/sassal0x) | 8 Apr 2024 | 🤯 |
 | Podcast clip | [Bankless Clips: What’s Next for ETH Monetary Policy?](https://www.youtube.com/watch?v=-ihs12qAoY8) | with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams) | 22 Apr 2024 | 🤯 |
-| Post | Sacha's [Thoughts on MVI](https://hackmd.io/@sacha/thoughts-on-mvi) | [Sacha](https://twitter.com/lazyleger) | 24 Apr 2024 | 🤯 |
+| Post | [Sacha's Thoughts on MVI](https://hackmd.io/@sacha/thoughts-on-mvi) | [Sacha](https://twitter.com/lazyleger) | 24 Apr 2024 | 🤯 |
 | Tweet | [Philosophical musings by Sacha](https://x.com/lazyleger/status/1783171166774968355) | [Sacha](https://twitter.com/lazyleger) | 24 Apr 2024 | 🤯 |
 | Podcast clip | [Bell Curve: Exploring EigenLayer and The Future of Ethereum Security](https://youtu.be/ozvMIydgcKs?si=t-YD59a1p3vUN5qn&t=5965) | with [Sreeram](https://twitter.com/sreeramkannan), hosted by [Myles](https://twitter.com/MylesOneil) & [Mike](https://twitter.com/MikeIppolito) | 28 May 2024 | 🤯 |
