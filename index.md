@@ -1,3 +1,5 @@
+# issuance.wtf
+
 #### This document aims to collect resources relevant to Ethereum's current issuance discussion.
 
 *This page is maintained and kept ~up-to-date\~ by [Caspar](https://twitter.com/casparschwa). Feel free to ping with questions/comments/requests on Twitter or Telegram @casparschwa, and please point out missing resources.*
@@ -59,10 +61,21 @@ For an overview on the current issuance debate, the following resources are a go
 [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [restaking-burn](https://www.youtube.com/watch?v=xXqXoZbP_Ew) | Restaking Day, <br /> 09 July 2024 | 🤯🤯 |
 [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Is Ethereum’s Issuance Policy Sustainable?](https://ethcc.io/archive/Is-Ethereums-Issuance-Policy-Sustainable) | EthCC, <br /> 11 July 2024 | 🤯 |
 
+## Talks
+| Speaker(s) | Title | Conference | Date | 🤯? |
+|------------|-------|------------|------|-----|
+| [Ansgar](https://twitter.com/adietrichs) | [Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s) | EthDubai | 20 Apr 2024 | 🤯&#160;🤯 |
+| [Ansgar](https://twitter.com/adietrichs), [nixo](https://twitter.com/nixorokish), & [dapplion](https://twitter.com/dapplion) | [Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542) | DappCon | 22 May 2024 | 🤯 |
+| [Caspar](https://twitter.com/casparschwa) | [issued issues](https://t.co/nc8NHaPj4b) | ZuBerlin | 12 Jun 2024 | 🤯 |
+| [Ansgar](https://twitter.com/adietrichs), [Caspar](https://twitter.com/casparschwa) & [Christine](https://twitter.com/christinedkim) | [Discussion: What's the issue with issuance?](https://ethcc.io/archive/Whats-the-issue-with-issuance) | EthStaker&#160;@EthCC | 08 July 2024 | 🤯 |
+| [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [restaking-burn](https://www.youtube.com/watch?v=xXqXoZbP_Ew) | Restaking Day | 09 July 2024 | 🤯🤯 |
+| [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Is Ethereum’s Issuance Policy Sustainable?](https://ethcc.io/archive/Is-Ethereums-Issuance-Policy-Sustainable) | EthCC | 11 July 2024 | 🤯 |
+
+
 ## Podcasts
 | Podcast | Guest(s), Host(s) | Title | Date | 🤯? |
 |---------|-------------------|-------|------|-----|
-| Uncommon Core 2.0 | with [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa), hosted by [Hasu](https://twitter.com/hasufl) & [Jon](https://twitter.com/joncharb) | [Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) | 22 Mar 2024 | 🤯&#160;🤯 |
+| Uncommon Core 2.0 | with [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa), hosted by [Hasu](https://twitter.com/hasufl) & [Jon](https://twitter.com/joncharb) | [Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) | 22&#160;Mar&#160;2024 | 🤯&#160;🤯 |
 | Bankless | with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams) | [The Debate Over ETH's Monetary Policy](https://www.youtube.com/watch?v=GLP_qRyPuv4) | 10 Apr 2024 | 🤯 |
 | Infinite Jungle | with [nixo](https://twitter.com/nixorokish), <br /> hosted by [Christine](https://twitter.com/christinedkim) | [Is Ethereum Printing Too Much ETH?](https://youtu.be/qw4Kp8UPBv0?si=WoUM2FkgfgdfOSUu) | 10 Apr 2024 | 🤯 |
 | Epicenter | with [nixo](https://twitter.com/nixorokish) & [superhiz](https://twitter.com/superphiz), hosted by [Friederike](https://twitter.com/tw_tter) | [Ethereum Staking Wars with EthStaker](https://www.youtube.com/watch?v=2krlPcbpZvQ) | 7 Jun 2024 | 🤯 |
