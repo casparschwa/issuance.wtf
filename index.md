@@ -52,16 +52,6 @@ For an overview on the current issuance debate, the following resources are a go
 [Artem](https://x.com/artofkot), [damcnuta](https://x.com/damcnuta), [Sonya](https://x.com/sonyasunkim) & [adcv_](https://x.com/adcv_) | [Maximum Viable Security: A New Framing for Ethereum Issuance](https://ethresear.ch/t/maximum-viable-security-a-new-framing-for-ethereum-issuance/19992/1) | Proposes shifting focus from minimizing issuance to maximizing security (in terms of ETH staked), arguing that issuance reductions could increase centralization risks.| Post | 06 Jul 2024 | 🤯🤯
 
 ## Talks
-| Speaker(s) | Title | Conference, Date | 🤯? |
-|------------|-------|------------------|-----|
-| [Ansgar](https://twitter.com/adietrichs) | [Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s) | EthDubai, <br /> 20 Apr 2024 | 🤯&#160;🤯 |
-| [Ansgar](https://twitter.com/adietrichs), [nixo](https://twitter.com/nixorokish), & [dapplion](https://twitter.com/dapplion) | [Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542) | DappCon, <br /> 22 May 2024 | 🤯 |
-| [Caspar](https://twitter.com/casparschwa) | [issued issues](https://t.co/nc8NHaPj4b) | ZuBerlin, <br /> 12 Jun 2024 | 🤯 |
-|[Ansgar](https://twitter.com/adietrichs), [Caspar](https://twitter.com/casparschwa) & [Christine](https://twitter.com/christinedkim) | [Discussion: What's the issue with issuance?](https://ethcc.io/archive/Whats-the-issue-with-issuance) | EthStaker&#160;@EthCC, <br /> 08 July 2024 | 🤯 |
-[Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [restaking-burn](https://www.youtube.com/watch?v=xXqXoZbP_Ew) | Restaking Day, <br /> 09 July 2024 | 🤯🤯 |
-[Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Is Ethereum’s Issuance Policy Sustainable?](https://ethcc.io/archive/Is-Ethereums-Issuance-Policy-Sustainable) | EthCC, <br /> 11 July 2024 | 🤯 |
-
-## Talks
 | Speaker(s) | Title | Conference | Date | 🤯? |
 |------------|-------|------------|------|-----|
 | [Ansgar](https://twitter.com/adietrichs) | [Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s) | EthDubai | 20 Apr 2024 | 🤯&#160;🤯 |
