@@ -33,58 +33,43 @@ For an overview on the current issuance debate, the following resources are a go
 
 # Exhaustive list of resources
 ## Writings
-
-### *by [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa)*
-
-| Title | Description | Date | 🤯? |
-|-------|-------------|------|-----|
-| [Endgame Staking Economics: A case for targeting](https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751) | Explores the past, current and probable future of staking levels, what negative externalities of too much stake are, and argues for why targeting a low % of stake is desirable as the endgame issuance policy. | 22 Feb 2024 | 🤯&#160;🤯 |
-| [Electra: Issuance Curve Adjustment Proposal](https://ethereum-magicians.org/t/electra-issuance-curve-adjustment-proposal/18825) | Short-term proposal to lower issuance curve from cF√D to cF√D(1+kD) as proposed and analyzed by Anders. This adjustment is proposed as an intermediate step toward the envisioned endgame: stake targeting. | 22 Feb 2024 | 🤯&#160;🤯 |
-
-### *by [Anders](https://twitter.com/weboftrees)*
-
-| Title | Description | Date | 🤯? |
-|-------|-------------|------|-----|
-| [Minimum Viable Issuance](https://notes.ethereum.org/@anderselowsson/MinimumViableIssuance) | Long thread arguing for minimum viable issuance to be an important pledge to the regular Ethereum user. | 7 Oct 2023 | 🤯&#160;🤯 |
-| [Properties of issuance level: consensus incentives and variability across potential reward curves](https://ethresear.ch/t/properties-of-issuance-level-consensus-incentives-and-variability-across-potential-reward-curves/18448/) | Analyzes the effect of issuance level on consensus incentives and reward variability across potential reward curves. Recommends decreasing issuance at high staking levels, by changing the issuance curve from cF√D to cF√D(1+kD). | 24 Jan 2024 | 🤯&#160;🤯&#160;🤯 |
-| [Reward curve with tempered issuance: EIP research post](https://ethresear.ch/t/reward-curve-with-tempered-issuance-eip-research-post/19171) | Aims to present the rationale for a reward curve with tempered issuance, i.e., cF√D(1+kD). | 1 Apr 2024 | 🤯&#160;🤯&#160;🤯 |
-| [Foundations of minimum viable issuance](https://notes.ethereum.org/@anderselowsson/Foundations-of-MVI) | Takes a closer look at the dynamics of cost and surplus in staking, demonstrating how all token holders can benefit from reduced issuance. | 17 Apr 2024 | 🤯 |
-| [Reward curve with capped issuance](https://notes.ethereum.org/@anderselowsson/Reward-curve-with-capped-issuance) | Discusses a reward curve with *capped* issuance, as opposed to *tempered* issuance. | 18 Apr 2024 | 🤯&#160;🤯 |
-| [FAQ: Ethereum issuance reduction](https://ethresear.ch/t/faq-ethereum-issuance-reduction/19675) | Anders answers 8 FAQs in the debate around a reduction in issuance. | 29 May 2024 | 🤯&#160;🤯 |
-
-### *by [Mike](https://twitter.com/mikeneuder)*
-
-| Title | Description | Date | 🤯? |
-|-------|-------------|------|-----|
-| [Issuance Issues — Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii) | Mike's personal distillation of issuance debate and why to change issuance policy. | 30 Mar 2024 | 🤯 |
-| [Issuance Issues — Subsequent Soliloquy](https://notes.ethereum.org/@mikeneuder/subsol) | Walks through a key point of the issuance endgame™ post argument-by-argument to provide more intuition: why real issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy. | 11 May 2024 | 🤯&#160;🤯 |
-| [Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt) | Provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion | 21 Jun 2024 | 🤯&#160;🤯 |
-
-### *by [Julian](https://twitter.com/_julianma)*
-
-| Title | Description | Date | 🤯? |
-|-------|-------------|------|-----|
-| [Initial Analysis of Stake Distribution](https://ethresear.ch/t/initial-analysis-of-stake-distribution/19014) | It presents a minimum non-trivial model to analyze the distribution of stake with respect to the level of issuance. | 15 Mar 2024 | 🤯&#160;🤯&#160;🤯 |
+| Author | Title | Description | Type | Date | 🤯? |
+|--------|-------|-------------|------|------|-----|
+| [Anders](https://twitter.com/weboftrees) | [Minimum Viable Issuance](https://notes.ethereum.org/@anderselowsson/MinimumViableIssuance) | Long thread arguing for minimum viable issuance to be an important pledge to the regular Ethereum user. | Post | 7 Oct 2023 | 🤯🤯 |
+| [Anders](https://twitter.com/weboftrees) | [Properties of issuance level: consensus incentives and variability across potential reward curves](https://ethresear.ch/t/properties-of-issuance-level-consensus-incentives-and-variability-across-potential-reward-curves/18448/) | Analyzes the effect of issuance level on consensus incentives and reward variability across potential reward curves. Recommends decreasing issuance at high staking levels, by changing the issuance curve from cF√D to cF√D(1+kD). | Post | 24&#160;Jan 2024 | 🤯&#160;🤯&#160;🤯 |
+| [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Endgame Staking Economics: A case for targeting](https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751) | Explores the past, current and probable future of staking levels, what negative externalities of too much stake are, and argues for why targeting a low % of stake is desirable as the endgame issuance policy. | Post | 22 Feb 2024 | 🤯🤯 |
+| [Ansgar](https://twitter.com/adietrichs)&#160;& [Caspar](https://twitter.com/casparschwa) | [Electra: Issuance Curve Adjustment Proposal](https://ethereum-magicians.org/t/electra-issuance-curve-adjustment-proposal/18825) | Short-term proposal to lower issuance curve from cF√D to cF√D(1+kD) as proposed and analyzed by Anders. This adjustment is proposed as an intermediate step toward the envisioned endgame: stake targeting. | Post | 22 Feb 2024 | 🤯🤯 |
+| [Julian](https://twitter.com/_julianma) | [Initial Analysis of Stake Distribution](https://ethresear.ch/t/initial-analysis-of-stake-distribution/19014) | It presents a minimum non-trivial model to analyze the distribution of stake with respect to the level of issuance. | Post | 15&#160;Mar 2024 | 🤯&#160;🤯&#160;🤯 |
+| [Mike](https://twitter.com/mikeneuder) | [Issuance Issues — Initial Issue](https://notes.ethereum.org/@mikeneuder/iiii) | Mike's personal distillation of issuance debate and why to change issuance policy. | Post | 30&#160;Mar 2024 | 🤯 |
+| [Anders](https://twitter.com/weboftrees) | [Reward curve with tempered issuance: EIP research post](https://ethresear.ch/t/reward-curve-with-tempered-issuance-eip-research-post/19171) | Aims to present the rationale for a reward curve with tempered issuance, i.e., cF√D(1+kD). | Post | 1 Apr 2024 | 🤯🤯🤯 |
+| [Anders](https://twitter.com/weboftrees) | [Foundations of minimum viable issuance](https://notes.ethereum.org/@anderselowsson/Foundations-of-MVI) | Takes a closer look at the dynamics of cost and surplus in staking, demonstrating how all token holders can benefit from reduced issuance. | Post | 17&#160;Apr 2024 | 🤯 |
+| [Anders](https://twitter.com/weboftrees) | [Reward curve with capped issuance](https://notes.ethereum.org/@anderselowsson/Reward-curve-with-capped-issuance) | Discusses a reward curve with *capped* issuance, as opposed to *tempered* issuance. | Post | 18&#160;Apr 2024 | 🤯🤯 |
+| [Mike](https://twitter.com/mikeneuder) | [Issuance Issues — Subsequent Soliloquy](https://notes.ethereum.org/@mikeneuder/subsol) | Walks through a key point of the issuance endgame™ post argument-by-argument to provide more intuition: why real issuance yield can be higher in the long term equilibrium, despite a reduced (!) issuance policy. | Post | 11&#160;May 2024 | 🤯🤯 |
+| [Anders](https://twitter.com/weboftrees) | [FAQ: Ethereum issuance reduction](https://ethresear.ch/t/faq-ethereum-issuance-reduction/19675) | Anders answers 8 FAQs in the debate around a reduction in issuance. | Post | 29&#160;May 2024 | 🤯🤯 |
+| [Mike](https://twitter.com/mikeneuder) | [Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt) | Provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion. | Post | 21&#160;Jun 2024 | 🤯🤯 |
+[Artem](https://x.com/artofkot), [damcnuta](https://x.com/damcnuta), [Sonya](https://x.com/sonyasunkim) & [adcv_](https://x.com/adcv_) | [Maximum Viable Security: A New Framing for Ethereum Issuance](https://ethresear.ch/t/maximum-viable-security-a-new-framing-for-ethereum-issuance/19992/1) | Proposes shifting focus from minimizing issuance to maximizing security (in terms of ETH staked), arguing that issuance reductions could increase centralization risks.| Post | 06 Jul 2024 | 🤯🤯
 
 ## Talks
-
-| Title | Speaker(s) | Conference, Date | 🤯? |
-|-------|------------|------------------|-----|
-|[Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s)|[Ansgar](https://twitter.com/adietrichs)|EthDubai, 20 Apr 2024|🤯&#160;🤯|
-|[Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542)|[Ansgar](https://twitter.com/adietrichs), [nixo](https://twitter.com/nixorokish), & [dapplion](https://twitter.com/dapplion)|DappCon, 22 May 2024|🤯|
-|[issued issues](https://t.co/nc8NHaPj4b)|[Caspar](https://twitter.com/casparschwa)|ZuBerlin, 12 Jun 2024|🤯|
+| Speaker(s) | Title | Conference, Date | 🤯? |
+|------------|-------|------------------|-----|
+| [Ansgar](https://twitter.com/adietrichs) | [Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s) | EthDubai, <br /> 20 Apr 2024 | 🤯&#160;🤯 |
+| [Ansgar](https://twitter.com/adietrichs), [nixo](https://twitter.com/nixorokish), & [dapplion](https://twitter.com/dapplion) | [Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542) | DappCon, <br /> 22 May 2024 | 🤯 |
+| [Caspar](https://twitter.com/casparschwa) | [issued issues](https://t.co/nc8NHaPj4b) | ZuBerlin, <br /> 12 Jun 2024 | 🤯 |
+|[Ansgar](https://twitter.com/adietrichs), [Caspar](https://twitter.com/casparschwa) & [Christine](https://twitter.com/christinedkim) | [Discussion: What's the issue with issuance?](https://ethcc.io/archive/Whats-the-issue-with-issuance) | EthStaker&#160;@EthCC, <br /> 08 July 2024 | 🤯 |
+[Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [restaking-burn](https://www.youtube.com/watch?v=xXqXoZbP_Ew) | Restaking Day, <br /> 09 July 2024 | 🤯🤯 |
+[Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Is Ethereum’s Issuance Policy Sustainable?](https://ethcc.io/archive/Is-Ethereums-Issuance-Policy-Sustainable) | EthCC, <br /> 11 July 2024 | 🤯 |
 
 ## Podcasts
-| [Podcast] Title | Guest(s), Host(s) | Date | 🤯? |
-|----------------|-------------------|------|-----|
-|[Uncommon Core 2.0] [Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) (also on [YouTube](https://www.youtube.com/watch?v=ivynR3RI3_Y))|with [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa), hosted by [Hasu](https://twitter.com/hasufl) & [Jon](https://twitter.com/joncharb)|22 Mar 2024|🤯&#160;🤯|
-|[Bankless] [The Debate Over ETH's Monetary Policy](https://www.youtube.com/watch?v=GLP_qRyPuv4)|with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams)|10 Apr 2024|🤯|
-|[Infinite Jungle] [Is Ethereum Printing Too Much ETH?](https://youtu.be/qw4Kp8UPBv0?si=WoUM2FkgfgdfOSUu)|with [nixo](https://twitter.com/nixorokish), hosted by [Christine](https://twitter.com/christinedkim)|10 Apr 2024|🤯|
-|[Epicenter] [Ethereum Staking Wars with EthStaker](https://www.youtube.com/watch?v=2krlPcbpZvQ)|with [nixo](https://twitter.com/nixorokish) & [superhiz](https://twitter.com/superphiz), hosted by [Friederike](https://twitter.com/tw_tter)|7 Jun 2024|🤯|
+| Podcast | Guest(s), Host(s) | Title | Date | 🤯? |
+|---------|-------------------|-------|------|-----|
+| Uncommon Core 2.0 | with [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa), hosted by [Hasu](https://twitter.com/hasufl) & [Jon](https://twitter.com/joncharb) | [Ethereum's Staking Endgame](https://open.spotify.com/episode/2YhHNjUwj44F1C3LXcCP0N?si=YmbgzZwcRTqaYVct6AzkfA) | 22 Mar 2024 | 🤯&#160;🤯 |
+| Bankless | with [David](https://twitter.com/TrustlessState) & [Ryan](https://twitter.com/RyanSAdams) | [The Debate Over ETH's Monetary Policy](https://www.youtube.com/watch?v=GLP_qRyPuv4) | 10 Apr 2024 | 🤯 |
+| Infinite Jungle | with [nixo](https://twitter.com/nixorokish), <br /> hosted by [Christine](https://twitter.com/christinedkim) | [Is Ethereum Printing Too Much ETH?](https://youtu.be/qw4Kp8UPBv0?si=WoUM2FkgfgdfOSUu) | 10 Apr 2024 | 🤯 |
+| Epicenter | with [nixo](https://twitter.com/nixorokish) & [superhiz](https://twitter.com/superphiz), hosted by [Friederike](https://twitter.com/tw_tter) | [Ethereum Staking Wars with EthStaker](https://www.youtube.com/watch?v=2krlPcbpZvQ) | 7 Jun 2024 | 🤯 |
 
 
 ## Misc
-This is a collection of less dedicated writings/discussions found on Twitter or relevant snippets from talks/podcasts. This list is *not* exhaustive. 
+This is a collection of relevant writings/discussions/musings found on Twitter or relevant snippets from talks/podcasts. This list is *not* exhaustive. 
 
 | Type | Title | Author/Speaker | Date | 🤯? |
 |------|-------|----------------|------|-----|
