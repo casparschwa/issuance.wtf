@@ -57,7 +57,7 @@ For an overview on the current issuance debate, the following resources are a go
 | [Ansgar](https://twitter.com/adietrichs) | [Ethereum Staking Economics Endgame](https://www.youtube.com/watch?v=mayktOkDTRg&t=1755s) | EthDubai | 20 Apr 2024 | 🤯&#160;🤯 |
 | [Ansgar](https://twitter.com/adietrichs), [nixo](https://twitter.com/nixorokish), & [dapplion](https://twitter.com/dapplion) | [Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542) | DappCon | 22 May 2024 | 🤯 |
 | [Caspar](https://twitter.com/casparschwa) | [issued issues](https://t.co/nc8NHaPj4b) | ZuBerlin | 12 Jun 2024 | 🤯 |
-| [Ansgar](https://twitter.com/adietrichs), [Caspar](https://twitter.com/casparschwa) & [Christine](https://twitter.com/christinedkim) | [Discussion: What's the issue with issuance?](https://ethcc.io/archive/Whats-the-issue-with-issuance) | EthStaker&#160;@EthCC | 08 July 2024 | 🤯 |
+| [Ansgar](https://twitter.com/adietrichs), [Caspar](https://twitter.com/casparschwa) & [Christine](https://twitter.com/christinedkim) | [Talk/Discussion: What's the issue with issuance?](https://ethcc.io/archive/Whats-the-issue-with-issuance) | EthStaker&#160;@EthCC | 08 July 2024 | 🤯 |
 | [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [restaking-burn](https://www.youtube.com/watch?v=xXqXoZbP_Ew) | Restaking Day | 09 July 2024 | 🤯🤯 |
 | [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Is Ethereum’s Issuance Policy Sustainable?](https://ethcc.io/archive/Is-Ethereums-Issuance-Policy-Sustainable) | EthCC | 11 July 2024 | 🤯 |
 
