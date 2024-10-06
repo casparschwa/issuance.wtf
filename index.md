@@ -50,7 +50,7 @@ For an overview on the current issuance debate, the following resources are a go
 | [Anders](https://twitter.com/weboftrees) | [FAQ: Ethereum issuance reduction](https://ethresear.ch/t/faq-ethereum-issuance-reduction/19675) | Anders answers 8 FAQs in the debate around a reduction in issuance. | Post | 29&#160;May 2024 | 🤯🤯 |
 | [Mike](https://twitter.com/mikeneuder) | [Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt) | Provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion. | Post | 21&#160;Jun 2024 | 🤯🤯 |
 [Artem](https://x.com/artofkot), [damcnuta](https://x.com/damcnuta), [Sonya](https://x.com/sonyasunkim) & [adcv_](https://x.com/adcv_) | [Maximum Viable Security: A New Framing for Ethereum Issuance](https://ethresear.ch/t/maximum-viable-security-a-new-framing-for-ethereum-issuance/19992/1) | Proposes shifting focus from minimizing issuance to maximizing security (in terms of ETH staked), arguing that issuance reductions could increase centralization risks.| Post | 06 Jul 2024 | 🤯🤯
-[pa7x1](https://ethresear.ch/u/pa7x1/summary) | [The Shape of Issuance Curves to Come](https://ethresear.ch/t/the-shape-of-issuance-curves-to-come/20405/1)) | This post analyzes the effects of different Ethereum issuance curves on decentralization.| Post | 10 Sept 2024 | 🤯🤯
+[pa7x1](https://ethresear.ch/u/pa7x1/summary) | [The Shape of Issuance Curves to Come](https://ethresear.ch/t/the-shape-of-issuance-curves-to-come/20405/1) | This post analyzes the effects of different Ethereum issuance curves on decentralization.| Post | 10 Sept 2024 | 🤯🤯
 
 ## Talks
 | Speaker(s) | Title | Conference | Date | 🤯? |
