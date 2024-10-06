@@ -19,7 +19,7 @@ The goal of this document is to collect resources (writeups/talks/podcasts/etc.)
 
 For an overview on the current issuance debate, the following resources are a good starting point; in \~rough\~ order of suggested consumption:
 
-### Technical highlights (≥ 🤯)
+### Technical highlights (> 🤯)
 1. [Ansgar](https://twitter.com/adietrichs) & [Caspar's](https://twitter.com/casparschwa) [issuance endgame™ post](https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751) explores why Ethereum is plausibly heading towards a very high % stake evnvironment under its current issuance policy; it then argues for why this future is problematic, and suggests to *target* a low staking ratio in the issuance endgame. 
 2. [Ansgar](https://twitter.com/adietrichs) & [Caspar's](https://twitter.com/casparschwa) talk ["Is Ethereum’s Issuance Policy Sustainable?"](https://ethcc.io/archive/Is-Ethereums-Issuance-Policy-Sustainable) focuses on *why* to change the issuance policy, i.e. problems of high % staked environments.
 3. [Anders'](https://twitter.com/weboftrees) [master piece](https://ethresear.ch/t/properties-of-issuance-level-consensus-incentives-and-variability-across-potential-reward-curves/18448/) proposes and analyzes new reward curve(s) with tempered issuance. Beyond the specific curve(s), it is a valuable resource to learn about relevant properties when considering issuance curves. Note that in broad strokes, Anders considers this proposed issuance policy to be viable for the endgame, while Ansgar&Caspar consider it a great *short term* issuance policy before moving to a stake ratio targeting policy for the endgame. 
