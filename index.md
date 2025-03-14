@@ -1,10 +1,13 @@
 # issuance.wtf
+#### This document lists resources relevant to Ethereum's current issuance discussion.
 
-#### This document aims to collect resources relevant to Ethereum's current issuance discussion.
+*Maintained and regularly updated by [Caspar](https://twitter.com/casparschwa). Feel free to reach out via Twitter or Telegram (@casparschwa) with questions, comments, or suggestions for additional resources.*
 
-*This page is maintained and kept ~up-to-date\~ by [Caspar](https://twitter.com/casparschwa). Feel free to ping with questions/comments/requests on Twitter or Telegram @casparschwa, and please point out missing resources.*
+**Join the community chat:** [Ethereum Issuance Chat](https://t.me/+SycIdtfMYW04NGE8)  
 
-Last updated: 03/10/2025.
+_This page was last updated: 03/14/2025_
+
+---
 
 # Introduction
 
