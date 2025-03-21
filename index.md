@@ -5,7 +5,7 @@
 
 **Join the community chat:** [Ethereum Issuance Chat](https://t.me/+SycIdtfMYW04NGE8)  
 
-_This page was last updated: 03/14/2025_
+_This page was last updated: 03/21/2025_
 
 ---
 
@@ -60,6 +60,7 @@ For an overview on the current issuance debate, the following resources are a go
 | Eric Downes |[Ethereum Macroeconomics via Dynamics](https://ethresear.ch/t/ethereum-macroeconomics-via-dynamics/21539/1)| The post introduces a dynamic systems approach to modeling Ethereum’s economic parameters, focusing on how staking and economic incentives impact long-term equilibrium conditions. | Post | 21 Jan 2025| 🤯&#160;🤯|
 | [Antero Eloranta](https://x.com/antsae_), [Santeri Helminen](https://x.com/0xSanteri)|[Impact of Consensus Issuance Yield Curve Changes on Competitive Dynamics in the Ethereum Validator Ecosystem](https://ethresear.ch/t/impact-of-consensus-issuance-yield-curve-changes-on-competitive-dynamics-in-the-ethereum-validator-ecosystem/21617) |This post analyzes how changes in Ethereum’s issuance yield curve influence validator competitiveness and market structure, particularly affecting large-scale staking entities. | Post | 28 Jan 2025 |🤯&#160;🤯 |
 | [Vivian Zhu](https://x.com/vivzhuu), [Otakar Korinek](https://x.com/OtakarKorinek), [Alex Duckworth](https://x.com/0xDuckworth)|[ETH Issuance Discovery Research: Issuance Debate & Case Studies By Staking Cohort](https://ethresear.ch/t/eth-issuance-discovery-research-issuance-debate-case-studies-by-staking-cohort/21664) | The post explores case studies of different staking cohorts to understand how varying issuance policies impact validator profitability, behavior, and overall network decentralization. | Post | 4 Feb 2025 | 🤯 |
+| Noé Arnold, Juan Beccuti, Thunj Chantramonklasri, Matthias Hafner, Nicolas Oderbolz|[Towards a Formal Framework of the Ethereum Staking Market](https://arxiv.org/pdf/2503.14385) | This paper studies how different categories of Ethereum stakers respond to changes in the consensus issuance schedule and how such changes may impact the composition of the staking market. | Paper | 18 Mar 2025 | 🤯&#160;🤯 |
 
 ## Talks
 | Speaker(s) | Title | Conference | Date | 🤯? |
