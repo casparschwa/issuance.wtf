@@ -5,7 +5,7 @@
 
 **Join the community chat:** [Ethereum Issuance Chat](https://t.me/+SycIdtfMYW04NGE8)  
 
-_This page was last updated: 03/21/2025_
+_This page was last updated: 03/25/2025_
 
 ---
 
@@ -69,8 +69,12 @@ For an overview on the current issuance debate, the following resources are a go
 | [Ansgar](https://twitter.com/adietrichs), [nixo](https://twitter.com/nixorokish), & [dapplion](https://twitter.com/dapplion) | [Issuance Panel](https://www.youtube.com/live/g7PK1RiK2Mg?si=cB6GermCD37NeHhW&t=1542) | DappCon | 22 May 2024 | 🤯 |
 | [Caspar](https://twitter.com/casparschwa) | [issued issues](https://t.co/nc8NHaPj4b) | ZuBerlin | 12 Jun 2024 | 🤯 |
 | [Ansgar](https://twitter.com/adietrichs), [Caspar](https://twitter.com/casparschwa) & [Christine](https://twitter.com/christinedkim) | [Talk/Discussion: What's the issue with issuance?](https://ethcc.io/archives/whats-the-issue-with-issuance) | EthStaker&#160;@EthCC | 08 July 2024 | 🤯 |
-| [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [restaking-burn](https://www.youtube.com/watch?v=xXqXoZbP_Ew) | Restaking Day | 09 July 2024 | 🤯🤯 |
+| [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [restaking-burn](https://www.youtube.com/watch?v=xXqXoZbP_Ew) | Restaking Day | 09 July 2024 | 🤯&#160;🤯 |
 | [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Is Ethereum’s Issuance Policy Sustainable?](https://ethcc.io/archives/is-ethereums-issuance-policy-sustainable) | EthCC | 11 July 2024 | 🤯 |
+| [Anders](https://twitter.com/weboftrees) | [Practical Endgame on Issuance Policy](https://www.youtube.com/watch?v=m91Wu6-cdwk) | Devcon | November 14 2024 | 🤯 |
+| [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Why Ethereum’s Issuance Policy is Unsustainable](https://www.youtube.com/watch?v=cUgKXBq017g)| Devcon | 14 Nov 2024 | 🤯 |
+| [Artem](https://x.com/artofkot) | [Maximum Viable Security (MVS) – a new issuance framework](https://www.youtube.com/watch?v=Cjr2ZEzNocc)| Devcon | 14 Nov 2024 | 🤯 |
+| [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [ETH is Money if we choose it to be](https://x.com/BanklessHQ/status/1861121104884154600)| Bankless Summit | 16 Nov 2024 | 🤯 |
 
 
 ## Podcasts
