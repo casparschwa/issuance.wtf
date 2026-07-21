@@ -3,9 +3,7 @@
 
 *Maintained and regularly updated by [Caspar](https://twitter.com/casparschwa). Feel free to reach out via Twitter or Telegram (@casparschwa) with questions, comments, or suggestions for additional resources.*
 
-**Join the community chat:** [Ethereum Issuance Chat](https://t.me/+SycIdtfMYW04NGE8)  
-
-_This page was last updated: 03/25/2025_
+_This page was last updated: 07/21/2026_
 
 ---
 
@@ -54,13 +52,16 @@ For an overview on the current issuance debate, the following resources are a go
 | [Anders](https://twitter.com/weboftrees) | [FAQ: Ethereum issuance reduction](https://ethresear.ch/t/faq-ethereum-issuance-reduction/19675) | Anders answers 8 FAQs in the debate around a reduction in issuance. | Post | 29&#160;May 2024 | 🤯🤯 |
 | [Mike](https://twitter.com/mikeneuder) | [Issuance Issues — Tertiary Treatise](https://hackmd.io/@mikeneuder/iitt) | Provides more intuition for why the burn (EIP-1559) is orthogonal to the issuance discussion. | Post | 21&#160;Jun 2024 | 🤯🤯 |
 [Artem](https://x.com/artofkot), [damcnuta](https://x.com/damcnuta), [Sonya](https://x.com/sonyasunkim) & [adcv_](https://x.com/adcv_) | [Maximum Viable Security: A New Framing for Ethereum Issuance](https://ethresear.ch/t/maximum-viable-security-a-new-framing-for-ethereum-issuance/19992/1) | Proposes shifting focus from minimizing issuance to maximizing security (in terms of ETH staked), arguing that issuance reductions could increase centralization risks.| Post | 06 Jul 2024 | 🤯🤯
-[pa7x1](https://ethresear.ch/u/pa7x1/summary) | [The Shape of Issuance Curves to Come](https://ethresear.ch/t/the-shape-of-issuance-curves-to-come/20405/1) | This post analyzes the effects of different Ethereum issuance curves on decentralization.| Post | 10 Sept 2024 | 🤯🤯
+[Patxi](https://ethresear.ch/u/pa7x1/summary) | [The Shape of Issuance Curves to Come](https://ethresear.ch/t/the-shape-of-issuance-curves-to-come/20405/1) | This post analyzes the effects of different Ethereum issuance curves on decentralization. An expanded and updated version lives [on GitHub](https://github.com/pa7x1/ethereum-issuance).| Post | 10 Sept 2024 | 🤯🤯
 [Vitalik](https://x.com/VitalikButerin) | [Possible futures of the Ethereum protocol, part 3: The Scourge](https://vitalik.eth.limo/general/2024/10/20/futures3.html) | This post talks about The Scourge part of the Ethereum roadmap. In particular, it touches on the topic of staking economics, in which he lays out the tradeoffs of various paths forward.| Post | 20 Oct 2024 | 🤯
 | [Anders](https://twitter.com/weboftrees) | [Practical endgame on issuance policy](https://notes.ethereum.org/@anderselowsson/ByGsJOVCC) | This post outlines a practical endgame on issuance policy, presenting reward curves that adhere to requirements of the consensus protocol and can reduce yearly issuance so that the quantity of stake stops growing in the near future. | Post | 1 Apr 2024 | 🤯🤯|
 | Eric Downes |[Ethereum Macroeconomics via Dynamics](https://ethresear.ch/t/ethereum-macroeconomics-via-dynamics/21539/1)| The post introduces a dynamic systems approach to modeling Ethereum’s economic parameters, focusing on how staking and economic incentives impact long-term equilibrium conditions. | Post | 21 Jan 2025| 🤯&#160;🤯|
 | [Antero Eloranta](https://x.com/antsae_), [Santeri Helminen](https://x.com/0xSanteri)|[Impact of Consensus Issuance Yield Curve Changes on Competitive Dynamics in the Ethereum Validator Ecosystem](https://ethresear.ch/t/impact-of-consensus-issuance-yield-curve-changes-on-competitive-dynamics-in-the-ethereum-validator-ecosystem/21617) |This post analyzes how changes in Ethereum’s issuance yield curve influence validator competitiveness and market structure, particularly affecting large-scale staking entities. | Post | 28 Jan 2025 |🤯&#160;🤯 |
 | [Vivian Zhu](https://x.com/vivzhuu), [Otakar Korinek](https://x.com/OtakarKorinek), [Alex Duckworth](https://x.com/0xDuckworth)|[ETH Issuance Discovery Research: Issuance Debate & Case Studies By Staking Cohort](https://ethresear.ch/t/eth-issuance-discovery-research-issuance-debate-case-studies-by-staking-cohort/21664) | The post explores case studies of different staking cohorts to understand how varying issuance policies impact validator profitability, behavior, and overall network decentralization. | Post | 4 Feb 2025 | 🤯 |
 | Noé Arnold, Juan Beccuti, Thunj Chantramonklasri, Matthias Hafner, Nicolas Oderbolz|[Towards a Formal Framework of the Ethereum Staking Market](https://arxiv.org/pdf/2503.14385) | This paper studies how different categories of Ethereum stakers respond to changes in the consensus issuance schedule and how such changes may impact the composition of the staking market. | Paper | 18 Mar 2025 | 🤯&#160;🤯 |
+| [Pintail](https://twitter.com/pintail_xyz) | [Ethereum's Staking Ratio: The Tipping Point](https://pintail.xyz/posts/2026/staking-ratio/) | With the staking ratio passing one third of total supply, this post argues that current incentives push staking toward 100% and makes the case for issuance reform. | Post | 20 Apr 2026 | 🤯🤯 |
+| [Zach Pandl](https://x.com/LowBeta_) (Grayscale) | [Ethereum's Staking Model Needs an Update](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) | Grayscale's Head of Research argues that declining burn and near-zero staking costs call for a cap on staking rewards, framing issuance reform as positive for ETH holders. | Post | May 2026 | 🤯 |
+| [Anders](https://twitter.com/weboftrees) | [Properties of Issuance Offsets and Increased Penalties under low/zero/negative issuance policies](https://ethresear.ch/t/properties-of-issuance-offsets-and-increased-penalties-under-low-zero-negative-issuance-policies/25292) | Analyzes how to preserve consensus incentives under low, zero, or negative issuance, comparing issuance offsets with increased penalties and showing how to keep proposer/attester incentives balanced. | Post | 24&#160;Jun 2026 | 🤯&#160;🤯&#160;🤯 |
 
 ## Talks
 | Speaker(s) | Title | Conference | Date | 🤯? |
@@ -75,6 +76,8 @@ For an overview on the current issuance debate, the following resources are a go
 | [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [Why Ethereum’s Issuance Policy is Unsustainable](https://www.youtube.com/watch?v=cUgKXBq017g)| Devcon | 14 Nov 2024 | 🤯 |
 | [Artem](https://x.com/artofkot) | [Maximum Viable Security (MVS) – a new issuance framework](https://www.youtube.com/watch?v=Cjr2ZEzNocc)| Devcon | 14 Nov 2024 | 🤯 |
 | [Ansgar](https://twitter.com/adietrichs) & [Caspar](https://twitter.com/casparschwa) | [ETH is Money if we choose it to be](https://x.com/BanklessHQ/status/1861121104884154600)| Bankless Summit | 16 Nov 2024 | 🤯 |
+| [Jerome](https://x.com/jdetychey) | [Introduction to Issuance Curve Topics](https://www.youtube.com/watch?v=WEg-lq_Eubk) | EthStaker | 27 Nov 2025 | 🤯 |
+| [Jerome](https://x.com/jdetychey) | [Issuance: The Cost of Inaction](https://www.youtube.com/watch?v=JD9okxZi3GM) | EthCC | 1 Apr 2026 | 🤯 |
 
 
 ## Podcasts
