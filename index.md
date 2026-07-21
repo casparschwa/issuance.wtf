@@ -105,3 +105,4 @@ This is a collection of relevant writings/discussions/musings found on Twitter o
 | Tweet | [Philosophical musings by Sacha](https://x.com/lazyleger/status/1783171166774968355) | [Sacha](https://twitter.com/lazyleger) | 24 Apr 2024 | 🤯 |
 | Podcast clip | [Bell Curve: Exploring EigenLayer and The Future of Ethereum Security](https://youtu.be/ozvMIydgcKs?si=t-YD59a1p3vUN5qn&t=5965) | with [Sreeram](https://twitter.com/sreeramkannan), hosted by [Myles](https://twitter.com/MylesOneil) & [Mike](https://twitter.com/MikeIppolito) | 28 May 2024 | 🤯 |
 | Tweet | [Croissant issuance curve](https://x.com/drakefjustin/status/1887108667675124174) | [Justin](https://x.com/drakefjustin/)| 5 Feb 2025 | 🤯 |
+| Website | [ethdebate.com: Issuance Debate](https://ethdebate.com/issuance) | [Ether Alpha](https://github.com/etheralpha) | ongoing | 🤯 |
